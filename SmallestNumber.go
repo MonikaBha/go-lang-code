@@ -18,8 +18,7 @@ func main() {
 		57, 82, 63, 70,
 		37, 34, 83, 27,
 		19, 97, 9, 17, 
-		89, 100, 77,55
-	}
+		}
 	var res int
 	res = myfunc(values)
 	fmt.Println("12th lowest number in a list of integer is:   ", res)
